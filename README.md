@@ -10,7 +10,10 @@ yes no more need of other people to hear your joke. The bot will hear them all.
 **Features**
 
 It has timeout,always-on features too
-
+1)Timeout 
+after a certain time the bot will give an error saying its been a long day without your input lol just kidding
+2)always-on feature
+Bot is immortal never dies(offline)
 **Screenshots**
 
 ![image](https://user-images.githubusercontent.com/75211982/123043516-039e3100-d416-11eb-9a05-d30985944129.png)
