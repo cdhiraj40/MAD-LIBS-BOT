@@ -8,7 +8,9 @@ It basically provide you funny phrases with your given own inputs.
 yes no more need of other people to hear your joke. The bot will hear them all.
 
 **Features**
+
 It has timeout,always-on features too
+
 **Screenshots**
 
 ![image](https://user-images.githubusercontent.com/75211982/123043516-039e3100-d416-11eb-9a05-d30985944129.png)
