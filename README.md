@@ -2,11 +2,7 @@
 
 ## Description
 
-Describe the new feature you are proposing.
-
-
 | Discord Bot           | We all use discord every day, this bot will provide you funny phrases with your given inputs                                               
-
 **Describe alternatives you've considered**
 
 This is a discord bot that takes inputs from the user and gives you funny phrases which will make your day
