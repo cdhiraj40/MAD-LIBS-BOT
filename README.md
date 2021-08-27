@@ -2,15 +2,16 @@
 
 ## Description
 
-| Discord Bot           | We all use discord every day, this bot will provide you funny phrases with your given inputs                                               
-**Describe alternatives you've considered**
+| Discord Bot           | We all use discord every day, ever wondered how can you have fun with it in minutes?
+this bot will make you :) when the days would be rough :/
+It basically provide you funny phrases with your given own inputs.
+yes no more need of other people to hear your joke. The bot will hear them all.
 
-This is a discord bot that takes inputs from the user and gives you funny phrases which will make your day
 
 **Additional context**
 It has timeout,always-on features too
 
-**Screenshots/Proof of Concept**
+**Screenshots**
 
 ![image](https://user-images.githubusercontent.com/75211982/123043516-039e3100-d416-11eb-9a05-d30985944129.png)
 
