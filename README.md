@@ -1,4 +1,4 @@
-# MADLIBS_BOT
+# MAD LIBS BOT
 
 ## Description
 
