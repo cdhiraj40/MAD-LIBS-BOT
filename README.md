@@ -7,7 +7,6 @@ this bot will make you :) when the days would be rough :/
 It basically provide you funny phrases with your given own inputs.
 yes no more need of other people to hear your joke. The bot will hear them all.
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 **Features**
 It has timeout,always-on features too
 **Screenshots**
